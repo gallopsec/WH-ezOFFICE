@@ -2,7 +2,6 @@
 import argparse,sys,requests,time,os,re
 from multiprocessing.dummy import Pool
 requests.packages.urllib3.disable_warnings()
-#fofa：app="万户网络-ezOFFICE"
 def banner():
     test = """
  _       ____  __                 ____  ____________________________
